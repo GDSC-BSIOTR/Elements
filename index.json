@@ -180,7 +180,14 @@
         "bolingPoint_inDegreeCelsius": "2400c "
     },
   
-  
+  {
+        "id": 19,
+        "name": "Magnesium",
+        "molecular formula": "Mg ",
+        "colour": "silver ",
+        "meltingPoint_inDegreeCelsius": " 650 c",
+        "bolingPoint_inDegreeCelsius": "1091c "
+    }
 
 
 
