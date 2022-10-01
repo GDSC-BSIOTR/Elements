@@ -202,6 +202,15 @@
         "bolingPoint_inDegreeCelsius": "1091c "
     }
 
+{
+        "id": 21,
+        "name": "Potassium permanganate",
+        "molecular formula": "KMnO4",
+        "colour": "purple tint",
+        "meltingPoint_inDegreeCelsius": "240",
+        "bolingPoint_inDegreeCelsius": "100"
+    },
+
   {
 
         "id": 20,
