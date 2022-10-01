@@ -69,7 +69,7 @@
         "meltingPoint_inDegreeCelsius": "-101.5",
         "bolingPoint_inDegreeCelsius": "-34.04"
     },
-=======
+
     
       {
          "id": 8 ,
@@ -209,6 +209,21 @@
         "name": "Magnesium chloride",
 
         "molecular formula": "Mgcl ",
+
+        "colour": "white & Colourless",
+
+        "meltingPoint_inDegreeCelsius": " 714 c",
+
+        "bolingPoint_inDegreeCelsius": "1412c "
+
+    }
+{
+
+        "id": 20,
+
+        "name": "calcium",
+
+        "molecular formula": "ca2 ",
 
         "colour": "white & Colourless",
 
