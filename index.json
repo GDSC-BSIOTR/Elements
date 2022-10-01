@@ -181,13 +181,7 @@
     },
   
   {
-        "id": 19,
-        "name": "Magnesium",
-        "molecular formula": "Mg ",
-        "colour": "silver ",
-        "meltingPoint_inDegreeCelsius": " 650 c",
-        "bolingPoint_inDegreeCelsius": "1091c "
-    }
+ 
 {
     
       "id": "27",
@@ -195,8 +189,34 @@
     "application":"https://youtu.be/hdqaN0CLcGE",
     "formula_page":"https://openstax.org/books/university-physics-volume-1/pages/13-5-keplers-laws-of-planetary-motion" 
      },
+ 
 
 
+
+
+       "id": 19,
+        "name": "Magnesium",
+        "molecular formula": "Mg ",
+        "colour": "silver ",
+        "meltingPoint_inDegreeCelsius": " 650 c",
+        "bolingPoint_inDegreeCelsius": "1091c "
+    }
+
+  {
+
+        "id": 20,
+
+        "name": "Magnesium chloride",
+
+        "molecular formula": "Mgcl ",
+
+        "colour": "white & Colourless",
+
+        "meltingPoint_inDegreeCelsius": " 714 c",
+
+        "bolingPoint_inDegreeCelsius": "1412c "
+
+    }
 
   ]
 
